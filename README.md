@@ -1,6 +1,6 @@
 # present
 
-A tool to create powerful yet simple presentations from plain-text source files.
+a tool to create powerful yet simple presentations from plain-text source files.
 
 ---
 
@@ -118,4 +118,4 @@ For the above snippet of code to work `present` has to be compiled and the binar
 ../bin/present source.pre
 ```
 
-present expects the presence of a `font.ttf` file which is to be used for the presentation. In the example folder a symlink to the poppins-regular is provided. feel free to change it to any font you like
+present expects the presence of a `font.ttf` file which is to be used for the presentation. In the example folder a symlink to the poppins-regular is provided. feel free to change it to any font you like:wq
